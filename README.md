@@ -3,10 +3,10 @@
 Caesar Cipher Algorithm for encryption and decryption.
 
 
->Features:
+**Features:**
 
-✅ Encrypts and decrypts text using a shift value.
+>✅ Encrypts and decrypts text using a shift value.
 
-✅ Handles uppercase and lowercase letters.
+>✅ Handles uppercase and lowercase letters.
 
-✅ Ignores non-alphabetic characters.
+>✅ Ignores non-alphabetic characters.
