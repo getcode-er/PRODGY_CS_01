@@ -1,6 +1,6 @@
 # PRODGY_CS_01
-** Title : ** 
-Python program implementing the Caesar Cipher algorithm for encryption and decryption.
+**Title :** 
+Caesar Cipher Algorithm for encryption and decryption.
 
 
 >Features:
