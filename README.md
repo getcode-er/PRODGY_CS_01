@@ -1,6 +1,6 @@
 # PRODGY_CS_01
 **Title :** 
-Caesar Cipher Algorithm for encryption and decryption.
+_Caesar Cipher Algorithm for encryption and decryption._
 
 
 **Features:**
@@ -14,8 +14,8 @@ Caesar Cipher Algorithm for encryption and decryption.
 
 **How to Run:**
 
->1.Save the file as _caesar_cipher.py._
+>1.Save the file as **_caesar_cipher.py._**
 
->2.Run it in the terminal using: _python caesar_cipher.py_
+>2.Run it in the terminal using: **_python caesar_cipher.py_**
 
 >3.Follow the on-screen prompts to enter a message and shift value.
